@@ -1,0 +1,4 @@
+Ali, Emre, 1
+Georgescu, Andrei, 8
+Nedelcu, Cosmin, 3
+Ciprian, Alexandru, 4
